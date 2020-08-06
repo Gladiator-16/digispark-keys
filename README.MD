@@ -5,7 +5,7 @@ A libray that alow to use an **AZERTY** Keyboard with Digispark. This code is an
 For this library I was use this image wich come from [this](https://digistump.com/board/index.php?topic=2289.0) digistump topic.
 
 ![KeyCodes](https://scriptel.com/KeyboardEmulationAPI/JavaScript/images/keyboard-identifiers.png)
-You can also find every **HID** codes [here](http://www.freebsddiary.org/APC/usb_hid_usages.php).
+
 
 ## New spetial key
 | Consant |Key |
@@ -53,17 +53,3 @@ You can also find every **HID** codes [here](http://www.freebsddiary.org/APC/usb
 | KEY_FR_8 | AZERTY key 8 |
 | KEY_FR_9 | AZERTY key 9 |
 
-## Releases:
-
-### Release 1.0.0:
-* The same functions that the original library (write, sendKeyStroke...)
-* Every character of the base original lib have been converted to AZERTY keyboard
-* New special key:
-KEY_ARROW_RIGHT, 
-KEY_ARROW_UP,
-KEY_ARROW_DOWN,
-KEY_CAPSLOCK,
-KEY_NUMLOCK,
-KEY_ESC,
-and every AZERTY key with the prefix KEY_FR_
-* Example
