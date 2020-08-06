@@ -6,10 +6,10 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-DigiKeyboardFr	KEYWORD1
+SYNTAX:
 
 #######################################
-# Methods and Functions (KEYWORD2)
+# DigiKeyboard.sendKeyStroke( YOUR KEY HERE );
 #######################################
 
 
