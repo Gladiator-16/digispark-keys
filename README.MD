@@ -8,6 +8,9 @@ For this library I was use this image wich come from [this](https://digistump.co
 
 
 ## New spetial key
+
+#THESE KEYS ARE ONLY FOR THE LATEST RELEASE I WIOULD RECOMEND YOU TO USE THE KEYS IN THE IMAGE OR VIEW THE KEYPAD.TXT
+
 | Consant |Key |
 | :-------: |:---: |
 | KEY_ARROW_RIGHT | Arrow right |
